@@ -15,9 +15,6 @@ class Item:
         self.price = self.price * self.pay_rate
 
 
-
-
-
 item1 = Item("Phone", 100, 5)
 item2 = Item("Laptop", 1000, 3)
 #sale attribute
